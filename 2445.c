@@ -2,7 +2,7 @@
 
 void main() {
 	int num;
-	printf("¼ýÀÚ¸¦ ÀÔ·ÂÇÏ¼¼¿ä: ");
+	printf("숫자를 입력하세요: ");
 	scanf_s("%d", &num);
 
 	int i, j;
