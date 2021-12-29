@@ -1,11 +1,11 @@
 //2441
-//Ã¹Â° ÁÙ¿¡´Â º° N°³, µÑÂ° ÁÙ¿¡´Â º° N-1°³, ..., N¹øÂ° ÁÙ¿¡´Â º° 1°³¸¦ Âï´Â ¹®Á¦
+//ì²«ì§¸ ì¤„ì—ëŠ” ë³„ Nê°œ, ë‘˜ì§¸ ì¤„ì—ëŠ” ë³„ N-1ê°œ, ..., Në²ˆì§¸ ì¤„ì—ëŠ” ë³„ 1ê°œë¥¼ ì°ëŠ” ë¬¸ì œ
 
 #include <stdio.h>
 
 void main() {
 	int num;
-	printf("¼ýÀÚ¸¦ ÀÔ·ÂÇÏ¼¼¿ä: ");
+	printf("ìˆ«ìžë¥¼ ìž…ë ¥í•˜ì„¸ìš”: ");
 	scanf_s("%d", &num);
 
 	for (int i = 1; i <= num; i++) {
